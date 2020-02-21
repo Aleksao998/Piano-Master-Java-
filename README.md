@@ -2,6 +2,7 @@
                                                     (Piano simulator Java App)
                                                     
 Short Description:
+
 •    Creating a playable piano application.
 
 •    Creating GUI in Java using java.awt and java.swing library.
@@ -17,11 +18,14 @@ Short Description:
 Directory description:
 
 root-> 13S112POOP_PZ2_1819.pdf = Detail project description (on Serbian)
+
 root-> PoopDrugiDomaci -> poop = List of song available to import by name
+
 root-> PoopDrugiDomaci -> src/projekat = Project code
 
 
 Warning!
+
 Roots from  Kompozicija.java has to change depends on the location of root folder on the computer
 
 
