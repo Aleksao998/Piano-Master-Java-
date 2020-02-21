@@ -3,10 +3,15 @@
                                                     
 Short Description:
 •    Creating a playable piano application.
+
 •    Creating GUI in Java using java.awt and java.swing library.
+
 •    Mouse and keyboard Action Listeners for piano keys (every key play specific note on mouse click or a keyboard button).
+
 •    MP3 import (importing a song  from the root and displaying notes)
+
 •    Auto Play (play imported song automatically on piano)
+
 •    Recording (recording what you have played and exporting it as mp3)
 
 Directory description:
